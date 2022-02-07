@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Milm\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Milm\\.nuget\\packages"
+    ]
+  }
+}
